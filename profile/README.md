@@ -4,7 +4,7 @@ Currently, the following GitHub organisations are managed by F-Droid team member
 - https://github.com/f-droid
 - https://github.com/fdroid
 
-Since github.com is fully proprietary software and therefore is contrary to the goals of F-Droid, a clear policy is needed for it's usage.
+Since github.com is fully proprietary software and therefore is contrary to the goals of F-Droid, a clear policy is needed for its usage.
 This policy will mainly concern team members having the "Owner" role at the https://github.com/f-droid organisation.
 
 
