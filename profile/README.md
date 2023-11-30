@@ -3,6 +3,7 @@
 Currently, the following GitHub organisations are managed by F-Droid team members as the official presence of F-Droid on GitHub:
 - https://github.com/f-droid
 - https://github.com/fdroid
+- https://github.com/fdroid-oauth
 
 Since github.com is fully proprietary software and therefore is contrary to the goals of F-Droid, a clear policy is needed for its usage.
 This policy will mainly concern team members having the "Owner" role at the https://github.com/f-droid organisation.
@@ -14,6 +15,7 @@ This policy will mainly concern team members having the "Owner" role at the http
 - Team members with "Owner" role must ask the team for consent[^1] before performing any changes to the `List of features currently in use`
 - Team members with "Owner" role should point people from interactions with non-deactivatable features (i.e. "Pull Requests") to the corresponding possibilities to contribute at https://gitlab.com/fdroid .
 - https://github.com/fdroid must only be kept as a placeholder (see https://gitlab.com/fdroid/admin/-/issues/29) unless the team decides differently
+- https://github.com/fdroid-oauth must only be used for providing GitHub OAuth for the [F-Droid Forum](https://forum.f-droid.org/) unless the team decides differently
 - Anyone who is an official core contributor as listed the official F-Droid [group](https://gitlab.com/groups/fdroid/-/group_members) can request to be listed on the GitHub. 
 
 
