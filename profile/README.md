@@ -24,7 +24,8 @@ This policy will mainly concern team members having the "Owner" role at the http
 ### List of team members with "Owner" role
 From https://github.com/orgs/f-droid/people?query=role%3Aowner :
 
-- @FestplattenSchnitzel (https://gitlab.com/FestplattenSchnitzel)
+- @licaon-kter (https://gitlab.com/licaon-kter)
+- @linsui (https://gitlab.com/linsui)
 - @uniqx (https://gitlab.com/uniqx)
 
 ### List of features currently in use
